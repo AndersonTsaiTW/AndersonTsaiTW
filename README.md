@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YuHong_Cai-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/yuhongcai/)
 [![GitHub](https://img.shields.io/badge/GitHub-AndersonTsai-green?style=flat-square&logo=GitHub)](https://github.com/AndersonTsaiTW)
-[![Gmail](https://img.shields.io/badge/Gmail-AndersonTsaiTW@gmail.com-purple?style=flat-square&logo=#4285F4)](AndersonTsaiTW@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-AndersonTsaiTW@gmail.com-purple?style=flat-square&logo=#4285F4)](mailto:AndersonTsaiTW@gmail.com)
 
 
 ![Cover Photo](https://github.com/user-attachments/assets/dd4578e4-9527-45f3-a27b-ec18ba967824)
