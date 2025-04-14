@@ -7,11 +7,7 @@
 
 ![Cover Photo](https://github.com/user-attachments/assets/dd4578e4-9527-45f3-a27b-ec18ba967824)
 
-## About Me
-
-Recent bootcamp graduate with a background in data analytics and finance, eager to apply skills in the industry. Capable of completing tasks from server setup to front-end construction. Experienced in data processing and visualization, with a knack for identifying business opportunities to enhance performance. Passionate about web development and dedicated to supporting team success.
-
-## Project
+## Project List
 
 ### 1. myFlixAPP  
 April - July 2024
