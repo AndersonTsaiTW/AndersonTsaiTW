@@ -11,7 +11,7 @@
 
 ### 1. myFlixAPP  
 April - July 2024
-Personal project, CareerFoundry  [[Website]](https://andersoncfmyfilx.netlify.app/login)  
+Personal project, CareerFoundry  [[Repo](https://github.com/AndersonTsaiTW/CF_Ach6_myFlix-Angular-client))  
 Goal: Build a movie website that allows users to navigate through movie details, manage their accounts, and store their favourite movies.  
 Steps:  
 - Collect movie data and build the database in MongoDB.
