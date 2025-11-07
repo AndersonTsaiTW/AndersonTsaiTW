@@ -29,25 +29,18 @@ Steps:
 - Integrate components, validate, and refine from feedback.
 Tools: Python, LINE chatbot, Azure Computer Vision, ChatGPT API, Google Maps API
 
-### 3. Static Website – Green Island - A Paradise in Taiwan: HTML, CSS
-March 2025; A simple static website showcasing the beauty of Green Island, Taiwan.
-[[Website]](https://green-island-taiwan.pages.dev/)
+### 3. Webs
+#### Static Website – Green Island - A Paradise in Taiwan: HTML, CSS // March 2025 // [[Website]](https://green-island-taiwan.pages.dev/)
+#### Interactive Web Page – EchoRock: HTML, CSS, JavaScript // April 2025 // [[Website]](https://echorock.pages.dev/)
+#### Django Web Application – Recipes For Healthy: Python, Django // March 2025 // [[Website]](https://andersontsaitw.pythonanywhere.com/)
 
-### 4. Interactive Web Page – EchoRock: HTML, CSS, JavaScript
-April 2025; A front-end project that simulates fetching and displaying data from a server.
-[[Website]](https://echorock.pages.dev/)
+### 4. C related
+#### C++ OOP Project – Order System: C++ // March - April 2025 // [[Demo]](https://youtu.be/tOqXQZ_efCY)
+#### C Project (Development and Testing) – Delivering Company: C, VS Native Unit Test // February - April 2025 // [[Demo]](https://youtu.be/ol7JVRSu8MQ)
 
-### 5. Django Web Application – Recipes For Healthy: Python, Django
-March 2025; A recipe-sharing web app built with Django and hosted on PythonAnywhere.
-[[Website]](https://andersontsaitw.pythonanywhere.com/)
-
-### 6. C++ OOP Project – Order System: C++
-March - April 2025; An order system that reads menu files, processes customer orders, and prints the final bill. Demonstrates file I/O and OOP design.
-[[Demo]](https://youtu.be/tOqXQZ_efCY)
-
-### 7. C Project (Development and Testing) – Delivering Company: C, VS Native Unit Test
-February - April 2025;  A delivery system simulation with three routes. Includes the full testing process: test plan, implementation, and final report.
-[[Demo]](https://youtu.be/ol7JVRSu8MQ)
+## Open Source Contributions
+<!--RECENT_CONTRIBUTIONS:start-->
+<!--RECENT_CONTRIBUTIONS:end-->
 
 ## Work Experience
 ### Teaching Assistant  · Part-time (2023)
@@ -60,7 +53,7 @@ E.sun Bank
 
 ### Project Manager for Lending (2014 - 2020)
 E.sun Bank
-* The Pandemic Relief Loan Project: Aligned with government policies, promoted project loans, totaling approximately USD 5 billion.
+* The Pandemic Relief Loan Project: Aligned with government policies, promoted project loans, totalling approximately USD 5 billion.
 * Small and Medium Enterprise (SME) Project: Analysis of data to design the loan project, increasing SME loans by 25% in three years.
 
 ## Contact Information
