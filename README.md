@@ -39,8 +39,9 @@ Tools: Python, LINE chatbot, Azure Computer Vision, ChatGPT API, Google Maps API
   2. C Project (Development and Testing) – Delivering Company: C, VS Native Unit Test // February - April 2025 // [[Demo]](https://youtu.be/ol7JVRSu8MQ)
 
 ## Open Source Contributions
-<!--RECENT_CONTRIBUTIONS:start-->
-<!--RECENT_CONTRIBUTIONS:end-->
+### > [hacktoberfest](https://hacktoberfest.com/) #2025
+  - [hackathon-starter](https://github.com/sahat/hackathon-starter) - 35.1k starts repo, a templete for hackthon
+  - [terraform-provider-validatefx](https://github.com/The-DevOps-Daily/terraform-provider-validatefx) ; [SysMood](https://github.com/RayBreeze/SysMood)
 
 ## Work Experience
 ### Teaching Assistant  · Part-time (2023)
