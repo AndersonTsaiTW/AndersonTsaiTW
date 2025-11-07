@@ -12,6 +12,6 @@ jobs:
       - uses: Readme-Workflows/recent-contributions@v2
         with:
           username: AndersonTsaiTW
-          max_repos: 10
+          max_repos: 5
           readme_path: README.md
           commit_message: "chore: update contributed repositories list"
