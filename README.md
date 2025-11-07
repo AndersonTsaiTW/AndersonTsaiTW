@@ -9,7 +9,7 @@
 
 ## Project List
 
-### 1. myFlixAPP  
+### > myFlixAPP  
 April - July 2024
 Personal project, CareerFoundry  [[Repo](https://github.com/AndersonTsaiTW/CF_Ach6_myFlix-Angular-client))  
 Goal: Build a movie website that allows users to navigate through movie details, manage their accounts, and store their favourite movies.  
@@ -19,7 +19,7 @@ Steps:
 - Construct the front-end using the React framework and connect it to the APIs.
 Tools: SQL, MongoDB, Node.js, Express, Postman, Heroku, React, Redux, Bootstrap, Netlify
 
-### 2. Line chatbot - "Bread Explore"
+### > Line chatbot - "Bread Explore"
 May - June 2023  
 Team project(Team leader), NTNU [[Video]](https://youtu.be/iHpngkxGGEA)  
 Goal: Create a chatbot for English learning. Users can take bread pictures, and get the English name/introduction to learn daily words. Users can improve responses and find nearby bread stores.  
@@ -29,14 +29,14 @@ Steps:
 - Integrate components, validate, and refine from feedback.
 Tools: Python, LINE chatbot, Azure Computer Vision, ChatGPT API, Google Maps API
 
-### 3. Webs
-#### Static Website – Green Island - A Paradise in Taiwan: HTML, CSS // March 2025 // [[Website]](https://green-island-taiwan.pages.dev/)
-#### Interactive Web Page – EchoRock: HTML, CSS, JavaScript // April 2025 // [[Website]](https://echorock.pages.dev/)
-#### Django Web Application – Recipes For Healthy: Python, Django // March 2025 // [[Website]](https://andersontsaitw.pythonanywhere.com/)
+### > Webs
+  1. Static Website – Green Island - A Paradise in Taiwan: HTML, CSS // March 2025 // [[Website]](https://green-island-taiwan.pages.dev/)
+  2. Interactive Web Page – EchoRock: HTML, CSS, JavaScript // April 2025 // [[Website]](https://echorock.pages.dev/)
+  3. Django Web Application – Recipes For Healthy: Python, Django // March 2025 // [[Website]](https://andersontsaitw.pythonanywhere.com/)
 
-### 4. C related
-#### C++ OOP Project – Order System: C++ // March - April 2025 // [[Demo]](https://youtu.be/tOqXQZ_efCY)
-#### C Project (Development and Testing) – Delivering Company: C, VS Native Unit Test // February - April 2025 // [[Demo]](https://youtu.be/ol7JVRSu8MQ)
+### > C and C++
+  1. C++ OOP Project – Order System: C++ // March - April 2025 // [[Demo]](https://youtu.be/tOqXQZ_efCY)
+  2. C Project (Development and Testing) – Delivering Company: C, VS Native Unit Test // February - April 2025 // [[Demo]](https://youtu.be/ol7JVRSu8MQ)
 
 ## Open Source Contributions
 <!--RECENT_CONTRIBUTIONS:start-->
