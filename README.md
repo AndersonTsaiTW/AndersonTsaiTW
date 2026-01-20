@@ -1,65 +1,195 @@
 # Yu-Hong Cai (Anderson Tsai)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YuHong_Cai-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/yuhongcai/)
-[![GitHub](https://img.shields.io/badge/GitHub-AndersonTsai-green?style=flat-square&logo=GitHub)](https://github.com/AndersonTsaiTW)
-[![Gmail](https://img.shields.io/badge/Gmail-AndersonTsaiTW@gmail.com-purple?style=flat-square&logo=#4285F4)](mailto:AndersonTsaiTW@gmail.com)
+Backend & Full-Stack Developer | ML Systems | Cloud Infrastructure | FinTech Background  
 
+Toronto, Canada  
+📧 andersonTsaiTW@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/yuhongcai  
+🔗 GitHub: https://github.com/AndersonTsaiTW  
 
-![Cover Photo](https://github.com/user-attachments/assets/dd4578e4-9527-45f3-a27b-ec18ba967824)
+---
 
-## Project List
+## 👋 About Me
 
-### > myFlixAPP  
-April - July 2024
-Personal project, CareerFoundry  [[Repo](https://github.com/AndersonTsaiTW/CF_Ach6_myFlix-Angular-client))  
-Goal: Build a movie website that allows users to navigate through movie details, manage their accounts, and store their favourite movies.  
-Steps:  
-- Collect movie data and build the database in MongoDB.
-- Create REST APIs using Express and host them on Heroku.
-- Construct the front-end using the React framework and connect it to the APIs.
-Tools: SQL, MongoDB, Node.js, Express, Postman, Heroku, React, Redux, Bootstrap, Netlify
+I am a backend-focused software developer with industry experience at PAR Technology (NYSE: PAR).
 
-### > Line chatbot - "Bread Explore"
-May - June 2023  
-Team project(Team leader), NTNU [[Video]](https://youtu.be/iHpngkxGGEA)  
-Goal: Create a chatbot for English learning. Users can take bread pictures, and get the English name/introduction to learn daily words. Users can improve responses and find nearby bread stores.  
-Steps:  
-- Plan the architecture of the application.
-- Split the project into four parts (LINE chatbot, Azure Computer Vision, ChatGPT API, Google Maps) and delegate tasks.
-- Integrate components, validate, and refine from feedback.
-Tools: Python, LINE chatbot, Azure Computer Vision, ChatGPT API, Google Maps API
+My background combines software engineering, machine learning systems, cloud infrastructure, and financial data analytics. Before transitioning into software engineering, I worked for many years in corporate banking as a Project Manager and Data Analyst, where I led large-scale lending platforms and enterprise analytics systems.
 
-### > Webs
-  1. Static Website – Green Island - A Paradise in Taiwan: HTML, CSS // March 2025 // [[Website]](https://green-island-taiwan.pages.dev/)
-  2. Interactive Web Page – EchoRock: HTML, CSS, JavaScript // April 2025 // [[Website]](https://echorock.pages.dev/)
-  3. Django Web Application – Recipes For Healthy: Python, Django // March 2025 // [[Website]](https://andersontsaitw.pythonanywhere.com/)
+I specialize in building scalable backend services, RESTful APIs, ML pipelines, and production-grade cloud deployments.
 
-### > C and C++
-  1. C++ OOP Project – Order System: C++ // March - April 2025 // [[Demo]](https://youtu.be/tOqXQZ_efCY)
-  2. C Project (Development and Testing) – Delivering Company: C, VS Native Unit Test // February - April 2025 // [[Demo]](https://youtu.be/ol7JVRSu8MQ)
+**Interests**
+- Backend & API Development  
+- Distributed Systems & Microservices  
+- Machine Learning Systems  
+- Cloud Infrastructure & DevOps  
+- FinTech Platforms  
 
-## Open Source Contributions
-### > [hacktoberfest](https://hacktoberfest.com/) #2025
-  - [hackathon-starter](https://github.com/sahat/hackathon-starter) - 35.1k starts repo, a templete for hackthon
-  - [terraform-provider-validatefx](https://github.com/The-DevOps-Daily/terraform-provider-validatefx) ; [SysMood](https://github.com/RayBreeze/SysMood)
+---
 
-## Work Experience
-### Teaching Assistant  · Part-time (2023)
-National Taiwan Normal University
-* Chatbot - Bread Explore: Won the Excellent and Popularity Awards in the NTU General Education Programming Course Competition.
+## 🧰 Tech Stack
 
-### Data Analyst(Team Leader) (2021 - 2022)
-E.sun Bank
-* Build the first auto-dashboard for managers to monitor performance.
+**Languages**  
+Python, JavaScript (Node.js), C, C++, Java, SQL  
 
-### Project Manager for Lending (2014 - 2020)
-E.sun Bank
-* The Pandemic Relief Loan Project: Aligned with government policies, promoted project loans, totalling approximately USD 5 billion.
-* Small and Medium Enterprise (SME) Project: Analysis of data to design the loan project, increasing SME loans by 25% in three years.
+**Backend**  
+FastAPI, Node.js, Express, Django, RESTful APIs, JWT Authentication  
 
-## Contact Information
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YuHong_Cai-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/yuhongcai/)
-[![GitHub](https://img.shields.io/badge/GitHub-AndersonTsai-green?style=flat-square&logo=GitHub)](https://github.com/AndersonTsaiTW)
-[![Gmail](https://img.shields.io/badge/Gmail-AndersonTsaiTW@gmail.com-purple?style=flat-square&logo=#4285F4)](mailto:AndersonTsaiTW@gmail.com)   
-You can find more about my background and experience on LinkedIn.   
-Please feel free to connect with me.
+**Databases**  
+PostgreSQL, MongoDB, SQLite  
+
+**ML & Data**  
+XGBoost, scikit-learn, pandas, OCR Pipelines  
+
+**Cloud & DevOps**  
+Docker, AWS EC2, Nginx, Redis, Celery, CI/CD  
+
+**Frontend**  
+React, Angular, HTML, CSS, JavaScript  
+
+**Testing**  
+Selenium, Jest, Cucumber, Puppeteer, Native C++ Unit Tests  
+
+**Tools**  
+GitHub, Jira, Postman, Firebase, Heroku, Netlify, OpenAI API  
+
+---
+
+## 🚀 Featured Engineering Projects
+
+### 🔹 XGenerator — ML Model Management & Prediction Server  
+**Tech:** FastAPI, XGBoost, Celery, Redis, Docker, AWS EC2, Nginx  
+**Repo:** https://github.com/AndersonTsaiTW/XGenerator
+
+A production-grade ML backend system enabling controlled model training and batch prediction.
+
+- Dataset upload with schema validation  
+- Versioned model training & artifact management  
+- Asynchronous background training with Celery  
+- Secure Dockerized deployment on AWS EC2 with HTTPS (Nginx)  
+
+---
+
+### 🔹 Lumos — Scam Message Detection System (Hackathon Winner)  
+**Tech:** Node.js, Express, OCR, OpenAI API, XGBoost, Twilio, Google Safe Browsing  
+**Repo:** https://github.com/AndersonTsaiTW/HackTheSource_lumos
+
+A lightweight scam detection system that analyzes message screenshots using OCR, semantic analysis, and machine learning.
+
+- Screenshot OCR pipeline  
+- NLP semantic analysis  
+- Real-time scam risk scoring  
+- API-based prediction service  
+
+🏆 Best Technical Implementation Award — Hack the Source Hackathon (Dec 2025)
+
+---
+
+### 🔹 myFlix — Full-Stack Movie Platform  
+**Tech:** Node.js, Express, MongoDB, React  
+**Repo:** https://github.com/AndersonTsaiTW/CF_Ach6_myFlix-Angular-client
+
+A full-stack movie platform that allows users to browse movies, manage accounts, and save favorite movies.
+
+- RESTful API built with Express and MongoDB  
+- User registration, login, and profile management  
+- Favorites management  
+- Backend hosted on Heroku  
+- Frontend built with React and deployed on Netlify  
+- API development and testing with Postman  
+
+---
+
+### 🔹 Bread Explore — AI Chatbot for English Learning  
+**Tech:** Python, LINE Bot, Azure Computer Vision, ChatGPT API, Google Maps  
+**Repo:** https://github.com/AndersonTsaiTW/LAT_Bread_Explorer
+**Demo:** https://youtu.be/iHpngkxGGEA  
+
+An AI-powered chatbot that helps users learn English vocabulary by recognizing bread images.
+
+- Image recognition via Azure Computer Vision  
+- NLP via ChatGPT API  
+- Location search via Google Maps  
+- LINE chatbot interface  
+
+🏆 Winner — NTU Programming Course Competition (Excellent & Popularity Awards)
+
+---
+
+## 🌐 Web Applications
+
+| Project | Tech | Demo |
+|--------|------|------|
+| Green Island Tourism Website | HTML, CSS | https://green-island-taiwan.pages.dev/ |
+| EchoRock Interactive Web | HTML, CSS, JS | https://echorock.pages.dev/ |
+| Recipes For Healthy | Python, Django | https://andersontsaitw.pythonanywhere.com/ |
+
+---
+
+## ⚙️ Systems Programming (C / C++)
+
+| Project | Tech | Demo |
+|--------|------|------|
+| Order Management System | C++ (OOP) | https://youtu.be/tOqXQZ_efCY |
+| Delivery Route Optimization | C + Unit Testing | https://youtu.be/ol7JVRSu8MQ |
+
+---
+
+## 🌍 Open Source & Hackathons
+
+- Hacktoberfest 2025 Supercontributor  
+- Hack the Source Hackathon — Best Technical Implementation Award  
+- Contributor to:
+  - hackathon-starter (35k+ stars)
+  - terraform-provider-validatefx
+  - SysMood  
+
+---
+
+## 🏢 Industry Experience
+
+### QA Automation Engineer — PAR Technology (NYSE: PAR)  
+*Sep 2025 – Present*
+
+- Built automation pipelines using Selenium and CI/CD  
+- Delivered 20+ automated test scripts  
+- Supported VM-based POS system testing  
+- Contributed to performance and memory testing  
+
+---
+
+### Data Analyst & Project Manager — E.Sun Bank  
+*2014 – 2022*
+
+- Led SME lending platforms, increasing loan volume by 25% over three years  
+- Managed pandemic relief loan program totaling USD 5B  
+- Built enterprise dashboards adopted by 200+ relationship managers  
+- Designed data pipelines using SQL and Tableau  
+
+---
+
+## 🎓 Education
+
+**Computer Programming & Analysis — Advanced Diploma**  
+Seneca Polytechnic (GPA 4.0 / 4.0, President’s Honour List)  
+
+**M.S. in Finance — National Central University**  
+**B.Sc. in Statistics — National Taipei University**
+
+---
+
+## 🎯 What I'm Looking For
+
+Backend Developer • Software Engineer • Platform Engineer  
+FinTech • SaaS • Cloud Infrastructure • Data Platforms  
+
+---
+
+## 📫 Contact
+
+📧 andersonTsaiTW@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/yuhongcai  
+🔗 GitHub: https://github.com/AndersonTsaiTW  
+
+---
+
+⭐ If you are interested in backend systems, ML platforms, or cloud infrastructure, feel free to connect!
