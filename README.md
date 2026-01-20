@@ -121,7 +121,7 @@ An AI-powered chatbot that helps users learn English vocabulary by recognizing b
 |--------|------|------|
 | Green Island Tourism Website | HTML, CSS | https://green-island-taiwan.pages.dev/ |
 | EchoRock Interactive Web | HTML, CSS, JS | https://echorock.pages.dev/ |
-| Recipes For Healthy | Python, Django | https://andersontsaitw.pythonanywhere.com/ |
+| Recipes For Healthy | Python, Django | https://github.com/AndersonTsaiTW/recipe_app |
 
 ---
 
