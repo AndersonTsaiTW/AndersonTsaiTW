@@ -71,7 +71,8 @@ A production-grade ML backend system enabling controlled model training and batc
 
 ### 🔹 Lumos — Scam Message Detection System (Hackathon Winner)  
 **Tech:** Node.js, Express, OCR, OpenAI API, XGBoost, Twilio, Google Safe Browsing  
-**Repo:** https://github.com/AndersonTsaiTW/HackTheSource_lumos
+**Repo:** https://github.com/AndersonTsaiTW/HackTheSource_lumos  
+**Demo:** https://www.youtube.com/watch?v=HYaMgOeQ3ko
 
 A lightweight scam detection system that analyzes message screenshots using OCR, semantic analysis, and machine learning.
 
@@ -101,7 +102,7 @@ A full-stack movie platform that allows users to browse movies, manage accounts,
 
 ### 🔹 Bread Explore — AI Chatbot for English Learning  
 **Tech:** Python, LINE Bot, Azure Computer Vision, ChatGPT API, Google Maps  
-**Repo:** https://github.com/AndersonTsaiTW/LAT_Bread_Explorer
+**Repo:** https://github.com/AndersonTsaiTW/LAT_Bread_Explorer  
 **Demo:** https://youtu.be/iHpngkxGGEA  
 
 An AI-powered chatbot that helps users learn English vocabulary by recognizing bread images.
