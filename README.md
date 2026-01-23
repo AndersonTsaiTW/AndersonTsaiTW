@@ -58,7 +58,8 @@ GitHub, Jira, Postman, Firebase, Heroku, Netlify, OpenAI API
 
 ### 🔹 XGenerator — ML Model Management & Prediction Server  
 **Tech:** FastAPI, XGBoost, Celery, Redis, Docker, AWS EC2, Nginx  
-**Repo:** https://github.com/AndersonTsaiTW/XGenerator
+**Repo:** https://github.com/AndersonTsaiTW/XGenerator  
+**Docs:** https://api.xgenerators.net/docs
 
 A production-grade ML backend system enabling controlled model training and batch prediction.
 
